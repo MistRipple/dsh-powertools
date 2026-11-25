@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "title": {
+    "en": "MistRipple DSH plugins",
+    "zh": "MistRipple DSH 插件"
+  },
+  "description": {
+    "en": "Self-hosted index for dsh-powertools.",
+    "zh": "dsh-powertools 的自建索引。"
+  },
+  "metadata": {
+    "categories": {
+      "tools": {
+        "title": {
+          "en": "Tools",
+          "zh": "工具"
+        }
+      }
+    },
+    "labels": {},
+    "sortKeys": {}
+  },
+  "plugins": [
+    {
+      "name": "dsh-powertools",
+      "title": {
+        "en": "PowerTools",
+        "zh": "DSH 工具箱"
+      },
+      "description": {
+        "en": "Browse and archive sessions, manage MCP servers and skills, and rewrite composer drafts with undo, from one sidebar panel.",
+        "zh": "在侧栏面板里浏览和归档会话、管理 MCP 与 Skill，并在原生输入框中改写草稿且支持撤销。"
+      },
+      "icon": "https://raw.githubusercontent.com/MistRipple/dsh-powertools/main/icon.svg",
+      "author": "MistRipple",
+      "homepage": "https://github.com/MistRipple/dsh-powertools#readme",
+      "repository": {
+        "url": "https://github.com/MistRipple/dsh-powertools"
+      },
+      "metadata": {
+        "category": "tools",
+        "keywords": [
+          "dsh",
+          "dsh-plugin",
+          "deepseek-harness",
+          "mcp",
+          "skills",
+          "sessions",
+          "prompt"
+        ],
+        "labels": [],
+        "sortKeys": {}
+      },
+      "versions": []
+    }
+  ]
+}

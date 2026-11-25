@@ -1,0 +1,6 @@
+url: https://github.com/MistRipple/dsh-powertools
+name: MistRipple/dsh-powertools
+category: tools
+description:
+  en: Browse and archive sessions, manage MCP servers and skills, and rewrite composer drafts with undo, from one sidebar panel.
+  zh: 在侧栏面板里浏览和归档会话、管理 MCP 与 Skill，并在原生输入框中改写草稿且支持撤销。
